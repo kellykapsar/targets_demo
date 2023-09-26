@@ -20,7 +20,7 @@ This is relatively new to me - I've only been working with pipeline tools for a 
 
 ## What are data pipeline tools? {.build}
 
-- Also known as a workflow management software 
+- A type of workflow management software 
 
 - Software that helps to automate a series of tasks. 
 
@@ -40,7 +40,7 @@ This is relatively new to me - I've only been working with pipeline tools for a 
 
 - Organize complex workflows (E.g., multiple study areas, lots of variables, many steps)
 
-- Compatible with parallel computing (I haven't actually testing this yet)
+- Compatible with parallel computing (I haven't actually tested this yet)
 
 ## 
 
