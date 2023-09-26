@@ -86,7 +86,10 @@ plot_grid(p1, p2, p3, nrow=1, ncol=3)
 │   ├── functions.R
 ```
 
-## Targets Tutorial
+## Targets Tutorial 
 
+(ft. a sketchy UFO sighting data set I found in the bowels of the internet)
+
+- Data come from the [ufo-reports](https://github.com/planetsig/ufo-reports) GitHub repository
 
 
