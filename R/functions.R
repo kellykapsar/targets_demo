@@ -6,7 +6,8 @@ clean_data <- function(df){
    dfnew <- dfnew %>% 
     mutate_at(c("lat", "lon"), as.numeric) %>% 
     mutate_at(c("shape", "state"), as.factor) %>% 
-    mutate(date = as_date(date, format = "%m/%d/%Y"))
+    mutate(date = as_date(date, format = "%m/%d/%Y")) %>% 
+    mutate(id = 1:length(dfnew$date))
   
   return(dfnew)
 }

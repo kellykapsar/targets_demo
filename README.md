@@ -1,7 +1,7 @@
 # Targets Package Demo
 
 ## Overview
-A repository for illustrating the use of the targets package in R, and data pipelining more generally. 
+The targets package is a useful tool for automating scientific workflows, minimizing errors, and ensuring the reproducibility of results. This repository contains a tutorial illustrating the use of the targets package as well as an introductory presentation and a list of additional resources. 
 
 
 ## Additional Resources 
